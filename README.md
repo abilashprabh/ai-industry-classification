@@ -14,4 +14,4 @@ To upload code on server, type "heroku create". Instructions clarified [here](ht
 
 
 ## Changing App Name
-To change app name, type "heroku apps:rename newname" while in command line, logged in, and in folder.
+To change app name, type "heroku apps:rename newname" while in command line, logged in, and in folder. Instructions clarified [here](https://devcenter.heroku.com/articles/renaming-apps).
